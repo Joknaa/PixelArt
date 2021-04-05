@@ -1,6 +1,9 @@
 # PixelArt
 These are some of my pixel art drawings and animations
 
+## Scenes: 
+![](Characters/Dow/Dow_GameConcept.gif)
+
 ## Characters: 
 ### Dow (1 Bit):
 ![](Characters/Dow/1B_Dow_Idling.gif) ![](Characters/Dow/1B_Dow_Jumping.gif)
